@@ -1,0 +1,12 @@
+{
+    "Provinces" : [
+        {
+            "name" : "WA",
+            "counties" : [
+                {
+                    "name" : "Urumia(Rezaeye)"
+                }
+            ]
+        }
+    ]
+}
